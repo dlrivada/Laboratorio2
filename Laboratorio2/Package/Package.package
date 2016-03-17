@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="f5f1bf32-049c-4835-9d83-7c3c557105b9" solutionId="f5f1bf32-049c-4835-9d83-7c3c557105b9" resetWebServer="false" sharePointProductVersion="15.0" name="Laboratorio2" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="523bb5af-29b0-47a1-bc43-4e10679227d4" />
+  </features>
+</package>
